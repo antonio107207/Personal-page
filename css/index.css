@@ -1,0 +1,113 @@
+header{
+	background-image: url(../img/background_head.png);
+	background-size: auto;
+	margin-top: 30px;
+	margin-right: 5px; 
+	margin-left: 20px; 
+	height: 200px; 
+	padding-left: : 10px;
+}
+
+figure{
+	position: relative;
+	top: -25px;
+	left: 15px;
+}
+
+.figure:hover{
+	-webkit-transform: scale(1.1);
+  		-ms-transform: scale(1.1);
+  			transform: scale(1.1);
+}
+
+.tabs{
+	margin: 5%;
+}
+
+.social{
+	margin-top: 70px;
+	margin-left: 20px;
+}
+
+.logo{
+	margin-top: 70px;
+}
+
+.logo:hover{
+	filter: contrast(175%) brightness(103%)
+}
+
+.contacts{
+	margin-top: 50px;
+}
+
+.cours	{
+	margin: 10px;
+}
+
+footer{
+	background-image: url(../img/background_footer3.png);
+	background-size: cover;
+}
+
+.modules{
+	margin: 10px;
+	font-weight: bold;
+}
+
+.youtube{
+	filter: grayscale(100%);
+}
+
+.youtube:hover{
+	filter: grayscale(0%);
+}
+
+.google{
+	filter: grayscale(100%);
+}
+
+.google:hover{
+	filter: grayscale(0%);
+}
+
+.facebook{
+	filter: grayscale(100%);
+}
+
+.facebook:hover{
+	filter: grayscale(0%);
+}
+
+.linkedin{
+	filter: grayscale(100%);
+}
+
+.linkedin:hover{
+	filter: grayscale(0%);
+}
+
+.instagram{
+	filter: grayscale(100%);
+}
+
+.instagram:hover{
+	filter: grayscale(0%);
+}
+
+.twitter{
+	filter: grayscale(100%);
+}
+
+.twitter:hover{
+	filter: grayscale(0%);
+}
+
+html,
+body {
+	height: 100%;
+}
+.wrapper {
+    position: relative;
+    min-height: 100%;
+}
